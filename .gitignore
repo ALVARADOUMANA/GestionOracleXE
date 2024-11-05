@@ -1,0 +1,10 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# React
+node_modules/
+
+# Ignorar logs
+backend/backend/logs/
